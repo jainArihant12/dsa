@@ -30,14 +30,14 @@ public class problem2 {
         int arr[] = {1,2,2,2,5,5,6,7,7,8};
         int start = 0;
         int end = arr.length-1;
-        int target =  3;
+        int target = 3;
         int idx = -1;
         while(start<=end){
             int mid = start + (end - start)/2;
             if(arr[mid]==target){
                 idx=mid;
                 break;
-            }else if (arr[mid]>target){
+            }else if(arr[mid]>target){
                  end = mid-1;
             }else{
                 start = mid+1;
