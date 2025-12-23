@@ -1,3 +1,5 @@
+package Binary_Search;
+
 // peak in the mountain array
 
 public class problem4 {

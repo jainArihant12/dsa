@@ -1,3 +1,5 @@
+package Binary_Search;
+
 // Search in 2D Matrix
 
 // method 1: brute force O(m*n)

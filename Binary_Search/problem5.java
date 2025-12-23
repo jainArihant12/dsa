@@ -1,3 +1,5 @@
+package Binary_Search;
+
 // Square root of array
 
 public class problem5 {

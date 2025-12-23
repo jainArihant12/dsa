@@ -1,3 +1,5 @@
+package Binary_Search;
+
 // Search in 2D matrix II
 // Leetcode 240
 // Integers in each row are sorted in ascending from left to right.
